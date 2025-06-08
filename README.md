@@ -23,17 +23,17 @@ Run the code. It will:
 Process the video
 Save images
 Generate nkeypoint.csv
-📍 Notes
 
+📍 Notes
 You can change the confidence threshold (default: 0.5) to control the detection sensitivity.
 For larger or more accurate models, try yolov8m-pose.pt or yolov8l-pose.pt.
-🤖 Future Enhancements
 
+🤖 Future Enhancements
 Real-time webcam detection
 Action recognition based on keypoints
 Visualize skeletons on saved frames
-👨‍💻 Author
 
+👨‍💻 Author
 swayam sidgor
 akshat pandey
 risabh tadwal
